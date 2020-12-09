@@ -5,4 +5,6 @@ where ci stands for contionous Integration
 
 ci involves github+maven+jenkins
 
+
 complete the spring
+Spring involces ioc+mvc+aop+dao
